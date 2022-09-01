@@ -1,0 +1,25 @@
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\Blank Game.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.csprojResolveAssemblyReference.cache
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\00 Blank Game\Blank Game\obj\x86\Debug\Blank Game.exe
+C:\NTU\NTU Teaching stuff\SOFT20161 Games programming\Monogame Versions\v3.6\00 Blank Game\Blank Game\obj\x86\Debug\Blank Game.pdb

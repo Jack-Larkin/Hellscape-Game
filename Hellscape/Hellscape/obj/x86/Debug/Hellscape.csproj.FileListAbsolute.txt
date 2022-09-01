@@ -1,0 +1,66 @@
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Hellscape.exe
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\Hellscape.pdb
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\obj\x86\Debug\Hellscape.csprojAssemblyReference.cache
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\obj\x86\Debug\Hellscape.csproj.CoreCompileInputs.cache
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\obj\x86\Debug\Hellscape.csproj.CopyComplete
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\obj\x86\Debug\Hellscape.exe
+C:\Users\N0812181\Projects\01 Blank Game\Blank Game\obj\x86\Debug\Hellscape.pdb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Hellscape.exe
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Hellscape.pdb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\obj\x86\Debug\Hellscape.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\obj\x86\Debug\Hellscape.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\obj\x86\Debug\Hellscape.csproj.CopyComplete
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\obj\x86\Debug\Hellscape.exe
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\obj\x86\Debug\Hellscape.pdb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\floorTile.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\goblin.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\demonSpriteSheet.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\stairs.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\Background.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\mainFont.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\attackPotion.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\healthPotion.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\healthFrame.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\attack1.wma
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\attack1.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\Carpenter Brut - Turbo Killer.wma
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\Carpenter Brut - Turbo Killer.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\footStep.wma
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\footStep.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\buttonBackground.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\menuBackground.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\comboAchievement.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\killAchievement.xnb
+C:\Users\Jack\Desktop\Projects\Hellscape\Hellscape\bin\Windows\x86\Debug\Content\moveAchievement.xnb
